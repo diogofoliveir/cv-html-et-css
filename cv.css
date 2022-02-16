@@ -1,0 +1,73 @@
+
+body{
+    padding: 5%;
+    margin: 15%;
+    background-color: #edf0f1;
+    display: block;
+}
+
+
+
+#magasinier{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+}   
+
+
+
+#reference{ 
+    background-color: #776a6a;
+    color: white; 
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: 800;   
+}
+
+section{
+    
+    text-align: justify;
+}
+
+
+#experiences, #formation, #langues, #informatique, #centres{
+    text-align: center;
+    display: contents;
+    
+}
+
+b{
+    
+    border: 10mm;
+    text-align: left;
+    margin-left: 10mm;
+    
+}
+
+
+.preparateur, .chauffeur, .monteur{
+    font-size: large;
+    padding-left: 10px;
+    margin: 10mm
+    
+}
+
+.pi{
+    text-decoration: none;
+}
+
+.pp{
+    text-decoration: underline;
+}
+.p1{
+    margin: 10mm;
+}
+p{
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.informatique-text, .centres-text{
+    margin: 10mm;
+}
