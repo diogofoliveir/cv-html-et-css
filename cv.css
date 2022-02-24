@@ -1,13 +1,23 @@
 
 body{
-    padding: 5%;
+    padding: 0%;
     margin: 15%;
     background-color: #edf0f1;
     display: block;
+    margin-top: 7%;
+    ;
 }
 
+.adresse{   
+    text-align: justify;
+    margin: 42px;
+    margin-top: 6px;
+    padding: 13px;
+}
 
-
+.nom{
+    font-size: 37px;
+}
 #magasinier{
     color: black;
     font-size: 50px;
@@ -16,14 +26,18 @@ body{
     font-weight: 700;
 }   
 
-
+.photo{
+    border-radius: 41% 41% 41% 41%;
+}
 
 #reference{ 
-    background-color: #776a6a;
+    background: content-box radial-gradient(rgb(121, 94, 100), rgb(104, 123, 131));
     color: white; 
     font-size: 20px;
     font-style: oblique;
-    font-weight: 800;   
+    font-weight: 800;  
+    border-radius: 7%; 
+
 }
 
 section{
@@ -56,6 +70,7 @@ b{
 
 .pi{
     text-decoration: none;
+    
 }
 
 .pp{
@@ -63,6 +78,7 @@ b{
 }
 .p1{
     margin: 10mm;
+    background-color:white;
 }
 p{
     font-style: normal;
